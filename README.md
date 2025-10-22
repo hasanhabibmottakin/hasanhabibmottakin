@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Hasan Habib Mottakin</h1>
+<h1 align="center">👋 I'm Hasan Habib Mottakin</h1>
 
 <p align="center">
   🚀 <b>Full Stack Developer</b> specializing in **Secure Streaming** and **Backend Systems** | 🇧🇩 Bangladesh
