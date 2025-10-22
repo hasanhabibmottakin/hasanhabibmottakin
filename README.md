@@ -11,7 +11,7 @@
 - 🛠 Skilled in **PHP, Python, Kotlin, Firebase, and API integration**  
 - 🔐 Focused on **secure stream handling & encryption (AES / DRM)**  
 - 🧩 Love to create backend systems that are *simple, fast, and secure*  
-- 🌱 Currently exploring **Cloud Functions, Shaka Player, and ExoPlayer**  
+- 🌱 Currently exploring **"My Tv" Android App, Isp Billing And NGO Management Software**  
 
 ---
 
