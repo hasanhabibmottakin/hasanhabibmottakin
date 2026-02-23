@@ -11,7 +11,7 @@
 - 🔒 Highly proficient in **secure stream handling & encryption (AES / DRM)**.
 - 🛠 Skilled in **PHP, Python, Kotlin, Firebase, and API integration**.
 - 🧩 Passionate about creating backend systems that are *simple, fast, and secure*.
-- 🌱 Currently building: **Android App ("My TV"), ISP Billing Software, and NGO Management Software.**
+- 🌱 Currently building: **Android App ("My TV, NetMirror, All In One OTT, Triangle Local Isp Application"), Whatsapp Automation Portal & Api, ISP Billing Software, and NGO Management Software.**
 
 ---
 
