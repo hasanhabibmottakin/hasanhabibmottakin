@@ -68,11 +68,13 @@ const profile = {
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUyOTM3M2RkZjc4Zjc0ZTlkYTNmOWI3ZDRmZTk0ZjhjZjUxMTVkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IPxMM0erATue6A/giphy.gif" width="25px"> GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HasanHabibMottakin&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HasanHabibMottakin&theme=tokyonight&no-bg=true" alt="Trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanHabibMottakin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HasanHabibMottakin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanHabibMottakin&theme=tokyonight&hide_border=true" alt="Streak" width="48%"/>
 </p>
 
