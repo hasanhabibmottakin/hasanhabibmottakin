@@ -9,13 +9,13 @@
 ## About Me
 
 - **Expertise:** IPTV, Proxy, and Media Player system architecture.
-- **Security:** Highly proficient in secure stream handling, AES encryption, and Digital Rights Management (DRM / Widevine / ClearKey).
+- **Security:** Highly proficient in secure stream handling, AES encryption, and Digital Rights Management (DRM  Widevine ).
 - **Core Skills:** PHP, Python, Kotlin, JavaScript, React JS, Firebase, and API integration.
 - **Philosophy:** Passionate about creating backend systems that are simple, fast, scalable, and secure.
 - **Currently Building & Maintaining:**
   - **Lotus TV:** Comprehensive Android TV and mobile application featuring advanced ExoPlayer integration.
   - **Xtream IPTV Systems:** Custom IPTV management, URL rewriting, and stream handling applications.
-  - **OTT & Streaming:** My TV, NetMirror, All In One OTT.
+  - **OTT & Streaming:** My TV, NetMirror, All In One OTT,Kickmad.
   - **Enterprise Software:** Triangle Local ISP Application, ISP Billing Software, and NGO Management Software.
   - **Automation:** WhatsApp Automation Portal & API.
 
