@@ -29,18 +29,20 @@ const profile = {
 
 ## Featured Projects & Applications
 
-Here is a deeper look into the software I build and maintain:
+Here is a deeper look into the core streaming systems and applications I build:
 
-*   **Lotus TV & Kickmad Lotus TV**
-    A comprehensive Android TV and mobile media application. It features advanced native ExoPlayer integration, customized network request headers, and highly secure stream proxying for seamless playback.
-*   **DCF Panel**
-    A robust web-based media management dashboard. Designed with proxy workflows, custom URL rewriting, and local stream caching systems to manage television channel playlists dynamically.
-*   **Rocket OTT & NetMirror**
-    Customized Android media streaming platforms featuring session validation routines, secure access control layouts, and optimized WebView and native playback environments.
-*   **Xtream IPTV Proxy Systems**
-    High-performance backend scripts written in Python (Flask) and PHP. These systems parse M3U8/MPD files, filter stream resolutions, and handle complex digital rights management (DRM) parameters on the fly.
-*   **Enterprise & Automation Software**
-    Beyond media, I develop management solutions including the Triangle Local ISP Application, automated billing software, and custom WhatsApp automation workflows leveraging webhook APIs.
+*   **Lotus TV**
+    An advanced **Xtream Codes IPTV player** designed for seamless stream parsing, playlist management, and highly optimized media playback.
+*   **Kickmad**
+    A dedicated live streaming platform engineered specifically for real-time **sports broadcasting and live events**.
+*   **NetMirror**
+    A robust, **Netflix-inspired media streaming platform** featuring a custom-built backend architecture for scalable Video-on-Demand (VOD) delivery.
+*   **All In One OTT**
+    A fully integrated, **subscription-based OTT platform** handling secure content distribution, user access control, and premium media experiences.
+*   **Xtream Proxy Systems & DCF Panel**
+    High-performance backend systems and web dashboards built to manage TV channel playlists, rewrite URLs, and handle DRM parameters dynamically.
+*   **Enterprise & Automation**
+    Development of the Triangle Local ISP Application, automated billing systems, and custom WhatsApp automation workflows via webhook APIs.
 
 ---
 
