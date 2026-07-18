@@ -39,8 +39,6 @@ Here is a deeper look into the core streaming systems and applications I build:
     A robust, **Netflix-inspired media streaming platform** featuring a custom-built backend architecture for scalable Video-on-Demand (VOD) delivery.
 *   **All In One OTT**
     A fully integrated, **subscription-based OTT platform** handling secure content distribution, user access control, and premium media experiences.
-*   **Xtream Proxy Systems & DCF Panel**
-    High-performance backend systems and web dashboards built to manage TV channel playlists, rewrite URLs, and handle DRM parameters dynamically.
 *   **Enterprise & Automation**
     Development of the Triangle Local ISP Application, automated billing systems, and custom WhatsApp automation workflows via webhook APIs.
 
