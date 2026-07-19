@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Full Stack Developer | IPTV & OTT Specialized | Bangladesh</h3>
+<h3 align="center">Full Stack Developer | IPTV, OTT & Automation Specialized | Bangladesh</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=HasanHabibMottakin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -22,7 +22,8 @@ const profile = {
     focus: [
         "Xtream Codes & IPTV Players", 
         "Proxy Video Streaming", 
-        "DRM (Widevine) & AES Encryption"
+        "DRM (Widevine) & AES Encryption",
+        "Workflow Automation & Extensions"
     ],
     motto: "Code like an artist, deploy like a hacker, debug like a detective."
 };
@@ -33,6 +34,8 @@ const profile = {
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2YTkyZDE3YmI4MzU4NmZkYTljZDI2MDZmZmRlZjk5ZjRhMWU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W5m2Q5iB13WbN/giphy.gif" width="25px"> Featured Projects & Architecture
 
+*   **Auto-Booking Browser Extension**
+    A custom-engineered browser automation tool designed to execute rapid, end-to-end automated reservations on targeted booking platforms, optimizing workflow speed and bypassing repetitive manual processes.
 *   **Lotus TV**
     A next-generation **Xtream IPTV Player** engineered with the power and flexibility of OTT Navigator. Built for lightning-fast stream parsing, advanced playlist management, and an ultimate, lag-free media playback experience.
 *   **Kickmad**
