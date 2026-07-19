@@ -33,9 +33,14 @@ const profile = {
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2YTkyZDE3YmI4MzU4NmZkYTljZDI2MDZmZmRlZjk5ZjRhMWU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W5m2Q5iB13WbN/giphy.gif" width="25px"> Featured Projects & Architecture
 
-*   **Lotus TV & Kickmad:** Advanced Xtream Codes IPTV players & dedicated live sports streaming platforms.
-*   **NetMirror & All In One OTT:** VOD media platforms with custom backend architectures for scalable, Netflix-inspired delivery.
-*   **Enterprise Solutions:** Xtream Proxies, DCF Panel, ISP Billing, and WhatsApp Automation workflows.
+*   **Lotus TV**
+    A next-generation **Xtream IPTV Player** engineered with the power and flexibility of OTT Navigator. Built for lightning-fast stream parsing, advanced playlist management, and an ultimate, lag-free media playback experience.
+*   **Kickmad**
+    The ultimate **Live Sports & Event Broadcasting** platform. A high-performance streaming engine designed for real-time action, offering a seamless viewing experience on par with industry leaders like Cricfy and SportzX.
+*   **NetMirror & All In One OTT**
+    VOD media platforms featuring custom backend architectures for highly scalable, Netflix-inspired content delivery and subscription management.
+*   **Enterprise Solutions**
+    Custom Xtream Proxies, DCF Panel, ISP Billing, and secure WhatsApp Automation workflows.
 
 ---
 
@@ -49,8 +54,8 @@ const profile = {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
